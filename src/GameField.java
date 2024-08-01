@@ -56,7 +56,7 @@ public class GameField extends JPanel implements ActionListener{
     public void loadImages(){
         ImageIcon iia = new ImageIcon("apple.png");
         apple = iia.getImage();
-        ImageIcon iid = new ImageIcon("dot.png");
+        ImageIcon iid = new ImageIcon("resized_heart_16x16.png");
         dot = iid.getImage();
     }
 
